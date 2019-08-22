@@ -1,1 +1,1 @@
-This is the first chapter. We're going to practice coding.
+This is the first chapter about alien-plot. We're going to practice coding.
